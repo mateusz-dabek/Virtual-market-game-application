@@ -1,1 +1,3 @@
 # Virtual-market-game-application
+
+The application has been divided into two parts. The backend was written using the Spring framework, while the frontend was written using the Angular framework. Communication between the server and the client is secured using JSON Web Token. The main functionality is concluding immediate and pending orders on various financial instruments. Quotations are delivered in real time using an external API. The application offers the ability to display a graph of any financial instrument along with tools for technical analysis. Furthermore, the user can view transactions history and statistics
